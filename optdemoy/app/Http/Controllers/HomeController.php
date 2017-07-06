@@ -16,7 +16,7 @@ class HomeController extends Controller
 {
     public function __construct()
     {
-        $this->middleware('browsercache:0|public|on', ['only' => ['index', 'main']]);
+        $this->middleware('browsercache:5|public|on', ['only' => ['index', 'main']]);
 //        $this->middleware('browsercache:0|public|on');
     }
 

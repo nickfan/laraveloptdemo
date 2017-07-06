@@ -8,7 +8,7 @@
     <link rel="dns-prefetch" href="http://optdemocdn.com">
     <link rel="preconnect" href="http://optdemocdn.com">
     <link rel="subresource" href="http://optdemocdn.com/assets/plugins/jquery/1.12.4/jquery.min.js">
-    <link rel="subresource" href="http://optdemocdn.com/assets/img/grey.gif">
+    <link rel="preload" href="http://optdemocdn.com/assets/img/grey.gif">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="http://optdemocdn.com/assets/img/favicon.ico">
