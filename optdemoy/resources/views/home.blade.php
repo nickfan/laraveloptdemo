@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv='x-dns-prefetch-control' content='on'>
     <link rel="dns-prefetch" href="http://optdemocdn.com">
+    <link rel="preconnect" href="http://optdemocdn.com">
     <link rel="subresource" href="http://optdemocdn.com/assets/plugins/jquery/1.12.4/jquery.min.js">
     <link rel="preload" href="http://optdemocdn.com/assets/img/grey.gif">
     <link rel="prefetch" href="http://optdemocdn.com/assets/img/grey.gif">
