@@ -4,6 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='x-dns-prefetch-control' content='on'>
+    <link rel="dns-prefetch" href="http://optdemocdn.com">
+    <link rel="subresource" href="http://optdemocdn.com/assets/plugins/jquery/1.12.4/jquery.min.js">
+    <link rel="preload" href="http://optdemocdn.com/assets/img/grey.gif">
+    <link rel="prefetch" href="http://optdemocdn.com/assets/img/grey.gif">
+    <link rel="prefetch" href="http://optdemocdn.com/storage/ugc/img/01.jpg">
+    <link rel="prefetch" href="http://optdemocdn.com/storage/ugc/img/02.jpg">
+    <link rel="prefetch" href="http://optdemocdn.com/storage/ugc/img/03.jpg">
+    <link rel="prerender" href="/main">
+    <link rel="next" href="/main">
+
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="http://optdemocdn.com/assets/img/favicon.ico">
