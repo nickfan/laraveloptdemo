@@ -5,6 +5,7 @@ optdemoy/*.tgz
 optdemon/vendor/
 optdemon/node_modules/
 optdemon/npm-debug.log
+optdemon/bootstrap/cache/*.php
 
 # Laravel 4 specific
 optdemon/bootstrap/compiled.php
@@ -32,6 +33,7 @@ optdemon/.rocketeer/
 optdemoy/vendor/
 optdemoy/node_modules/
 optdemoy/npm-debug.log
+optdemoy/bootstrap/cache/*.php
 
 # Laravel 4 specific
 optdemoy/bootstrap/compiled.php
