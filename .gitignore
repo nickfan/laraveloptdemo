@@ -1,20 +1,54 @@
-vendor/
-node_modules/
-npm-debug.log
+
+optdemon/*.tgz
+optdemoy/*.tgz
+
+optdemon/vendor/
+optdemon/node_modules/
+optdemon/npm-debug.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+optdemon/bootstrap/compiled.php
+optdemon/app/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
-.env.*.php
-.env.php
-.env
-Homestead.yaml
-Homestead.json
+optdemon/public/storage
+optdemon/public/hot
+optdemon/storage/*.key
+optdemon/.env.*.php
+optdemon/.env.php
+optdemon/.env
+optdemon/.env.production
+optdemon/.env.local
+optdemon/.env.my
+optdemon/Homestead.yaml
+optdemon/Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+optdemon/.rocketeer/
+
+
+
+
+optdemoy/vendor/
+optdemoy/node_modules/
+optdemoy/npm-debug.log
+
+# Laravel 4 specific
+optdemoy/bootstrap/compiled.php
+optdemoy/app/storage/
+
+# Laravel 5 & Lumen specific
+optdemoy/public/storage
+optdemoy/public/hot
+optdemoy/storage/*.key
+optdemoy/.env.*.php
+optdemoy/.env.php
+optdemoy/.env
+optdemoy/.env.production
+optdemoy/.env.local
+optdemoy/.env.my
+optdemoy/Homestead.yaml
+optdemoy/Homestead.json
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+optdemoy/.rocketeer/
