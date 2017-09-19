@@ -14,3 +14,4 @@
 Route::get('/','HomeController@index');
 Route::get('main','HomeController@main');
 Route::get('mydata','HomeController@mydata');
+Route::get('hello','HomeController@hello');

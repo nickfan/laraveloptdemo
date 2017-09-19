@@ -23,6 +23,9 @@ class HomeController extends Controller
     public function index(){
         return view('home');
     }
+    public function hello(){
+        return 'hello time: '.date('Y-m-d H:i:s');
+    }
 
     public function main(){
         return view('main');
